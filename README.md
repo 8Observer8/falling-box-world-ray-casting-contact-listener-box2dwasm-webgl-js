@@ -5,6 +5,8 @@ Sandboxes:
 - PlayCode: https://playcode.io/1531743
 - Plunker: https://plnkr.co/edit/iLEl6XL60nwGQzC0?preview
 
+Instructions for building and running the project in debug and release:
+
 - Install these packages globally with the command:
 
 > npm i -g http-server rollup uglify-js
